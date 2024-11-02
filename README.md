@@ -16,14 +16,17 @@ Write the Windows commands / batch file
 Save each script in a file with a .bat extension.
 Ensure you have the necessary permissions to perform the operations.
 Adapt paths as needed based on your system configuration.
+
 ### Step 3:
 
 Execute the necessary commands/batch file for the desired output. 
 
-
-
-
 # WINDOWS COMMANDS:
+
+### Developed By: JANARTHANAN K
+### Register No.: 212223040072
+### Date: 21/10/2024
+
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
 
